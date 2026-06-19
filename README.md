@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShadowForceID&color=36e29a&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ShadowForceID.ShadowForceID&left_color=0c1116&right_color=36e29a)
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/ShadowForceID?style=flat-square&color=9b8cff&label=FOLLOWERS)](https://github.com/ShadowForceID?tab=followers)
 &nbsp;
