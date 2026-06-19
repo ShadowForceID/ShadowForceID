@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ShadowForceID.ShadowForceID&left_color=0c1116&right_color=36e29a)
+![Profile Views](https://komarev.com/ghpvc/?username=ShadowForceID&color=36e29a&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/ShadowForceID?style=flat-square&color=9b8cff&label=FOLLOWERS)](https://github.com/ShadowForceID?tab=followers)
 &nbsp;
@@ -167,10 +167,10 @@ RAM     →  berjalan di 1 vCPU / 1 GB RAM
 
 ---
 
-## 🏆 Trophies
+## 🛠️ Skills
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShadowForceID&theme=darkhub&no-frame=true&column=6&margin-w=8" />
+<img src="https://skillicons.dev/icons?i=py,js,nodejs,flask,bash,linux,git,github&theme=dark" />
 </div>
 
 ---
